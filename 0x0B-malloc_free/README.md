@@ -1,0 +1,1 @@
+In this folder the concepts about file allocation will be further examined
