@@ -1,0 +1,1 @@
+this is to explore morre abour malloc or space allocation
